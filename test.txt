@@ -3,4 +3,5 @@ test
 test
 dw
 dwf
-깃허브에서 수정
+
+PR Reviewporteri= r.split(" ")[0];
